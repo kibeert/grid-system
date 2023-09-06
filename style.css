@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+.row{
+    margin: 10px;
+    
+}
+.col-sm{
+    background-color: aqua;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.col-sm-9{
+    background-color: chartreuse;
+}
